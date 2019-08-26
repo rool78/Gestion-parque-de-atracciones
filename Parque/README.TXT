@@ -1,12 +1,9 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+Programa gestion de un parque de atracciones , control venta entradas,
+control personal y control funcional de atracciones.
+Programación orientada a objetos JAVA
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Gestor parque de atracciones
+PURPOSE OF PROJECT: Programación Orientada a objetos JAVA UNED
+AUTHORS: Raúl Maza
