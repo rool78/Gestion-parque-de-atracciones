@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Kid
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Kid\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=edad\ altura\ VIP\ discapacidad\ estudiante\ carnet_joven
+comment1.target=Kid(int,\ double,\ boolean,\ boolean,\ boolean,\ boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Kid\r\n
+comment2.params=
+comment2.target=int\ getDescuentoEdad()
+comment2.text=\r\n\ Obtener\ descuento\ (metodo\ polimorfico\ despendiendo\ de\ la\ subclase\r\n\ devuelve\ un\ porcentaje\ u\ otro)\r\n\r\n\ @return\ int\ descuento\ (porcentaje)\r\n
+comment3.params=
+comment3.target=double\ getPrecioVIP()
+comment3.text=\r\n\ Obtener\ descuento\ VIP(metodo\ polimorfico\ despendiendo\ de\ la\ subclase\r\n\ devuelve\ un\ PRECIO\ u\ otro)\r\n\r\n\ @return\ double\ precio\ a\ sumar\ del\ pase\ VIP\ (euros)\r\n
+comment4.params=
+comment4.target=java.lang.String\ getTipo()
+comment4.text=\r\n\ Obtenemos\ el\ tipo\ de\ la\ subclase\ en\ forma\ de\ String\r\n\r\n\ @return\ String\ Tipo\ de\ la\ subclase\r\n
+numComments=5

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=GestorTrabajadores
+comment0.text=\r\n\ Gestor\ de\ los\ trabajadores.\r\n\r\n\ @author\ (Raul\ Maza)\r\n\ @version\ (09/04/19)\r\n
+comment1.params=
+comment1.target=GestorTrabajadores()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GestorTrabajadores\r\n
+comment2.params=
+comment2.target=void\ crearTrabajadoresTest()
+comment2.text=\r\n\ Crear\ algunos\ trabajadores\ de\ prueba\r\n
+comment3.params=indice
+comment3.target=Trabajador\ getTrabajadorArray(int)
+comment3.text=\r\n\ Acceso\ al\ ArrayList\ trabajadores\r\n
+comment4.params=rrpp\ ayudantes\ responsables\ atencion_cliente
+comment4.target=void\ crearTrabajadores(int,\ int,\ int,\ int)
+comment4.text=\r\n\ Crea\ los\ trabajadores\ segun\ las\ atracciones\r\n
+comment5.params=
+comment5.target=java.util.ArrayList\ getArrayTrabajadores()
+comment5.text=\r\n\ Obtener\ el\ ArrayList\ de\ trbajadores\r\n
+numComments=6

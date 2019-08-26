@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Fecha
+comment0.text=\r\n\ Clase\ para\ obtener\ la\ fecha.\r\n\r\n\ @author\ (Raul\ Maza)\r\n\ @version\ (21/03/19)\r\n
+comment1.params=
+comment1.target=Fecha()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Fecha\r\n
+comment2.params=
+comment2.target=java.util.Date\ getFecha()
+comment2.text=\r\n\ Obtiene\ la\ fecha\ actual\ del\ sistema\r\n\r\n\ @return\ \ fecha\ actual\r\n
+comment3.params=
+comment3.target=int\ getDia()
+comment3.text=\r\n\ Obtiene\ el\ dia\ actual\r\n\r\n\ @return\ \ dia\ actual\r\n
+comment4.params=
+comment4.target=int\ getMes()
+comment4.text=\r\n\ Obtiene\ el\ mes\ actual\ \r\n\r\n\ @return\ \ mes\ actual\r\n
+comment5.params=
+comment5.target=int\ getYear()
+comment5.text=\r\n\ Obtiene\ el\ a\u00F1o\ actual\ \r\n\r\n\ @return\ \ a\u00F1o\ actual\r\n
+comment6.params=
+comment6.target=int\ getDiasMes()
+comment6.text=\r\n\ Obtiene\ el\ numero\ de\ dias\ del\ mes\ actual\r\n\r\n\ @return\ \ int\ dias\ mes\ actual\r\n
+numComments=7

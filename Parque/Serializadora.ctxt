@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Serializadora
+comment1.params=objeto\ nombreFichero
+comment1.target=void\ escribirObjeto(java.lang.Object,\ java.lang.String)
+comment2.params=nombreDelArchivo
+comment2.target=java.lang.Object\ leerObjeto(java.lang.String)
+numComments=3

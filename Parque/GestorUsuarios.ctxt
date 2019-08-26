@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=GestorUsuarios
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ GestorUsuarios\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=GestorUsuarios()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GestorUsuarios\r\n
+comment2.params=edad\ altura\ VIP\ discapacidad\ estudiante\ carnet
+comment2.target=void\ creaUsuario(int,\ double,\ boolean,\ boolean,\ boolean,\ boolean)
+comment2.text=\r\n\ Instancia\ la\ subclase\ de\ usuario\ dependiendo\ de\ la\ edad\r\n
+comment3.params=i
+comment3.target=Usuario\ getUsuarioArray(int)
+comment3.text=\ Devuelve\ un\ usuario\ del\ ArrayList\ pasandole\ un\ indice\r\n\ \r\n
+comment4.params=
+comment4.target=int\ sizeUsuarios()
+comment4.text=\r\n\ Metodo\ .size\ del\ ArrayList\r\n
+comment5.params=
+comment5.target=Usuario\ verUltimo()
+comment5.text=\r\n\ Devuelve\ el\ ultimo\ usuario\ del\ ArrayList\r\n
+comment6.params=i
+comment6.target=void\ setFamilia(int)
+comment6.text=\r\n\ Settea\ el\ atributo\ descuento_familia\ pasandole\ un\ indice\r\n
+numComments=7

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=GestorEntradas
+comment0.text=\r\n\ Clase\ encargada\ de\ gestionar\ la\ creacion\ y\ el\ manejo\ de\ las\ entradas\r\n\ dispone\ de\ un\ ArrayList\ de\ todas\ las\ entradas\ generadas.\r\n\r\n\ @author\ (Raul\ Maza)\r\n\ @version\ (09/04/19)\r\n
+comment1.params=
+comment1.target=GestorEntradas()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GestorEntradas\r\n
+comment2.params=usuario
+comment2.target=void\ crearEntrada(Usuario)
+comment3.params=i
+comment3.target=Entrada\ getEntradaArray(int)
+comment3.text=\ Devuelve\ un\ usuario\ del\ ArrayList\ pasandole\ un\ indice\r\n\ \r\n
+comment4.params=
+comment4.target=int\ sizeEntradas()
+comment4.text=\r\n\ Metodo\ .size\ del\ ArrayList\r\n
+comment5.params=
+comment5.target=java.util.ArrayList\ getArray()
+comment5.text=\r\n\ Devuelve\ el\ ArrayList\ de\ entradas\r\n
+comment6.params=indice
+comment6.target=void\ pintaTicket(int)
+comment6.text=\r\n\ Pinta\ en\ pantalla\ el\ ticket\ de\ compra\r\n\r\n
+numComments=7
